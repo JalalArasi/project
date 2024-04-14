@@ -1,1 +1,9 @@
 
+# Ignore .log files in all directories
+**/*.log
+
+# Ignore .DS_Store files
+.DS_Store
+
+# Ignore Jupyter Notebook checkpoints directory
+.ipynb_checkpoints/
